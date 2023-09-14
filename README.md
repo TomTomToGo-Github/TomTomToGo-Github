@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TomTomToGo-Github
 - 👀 I’m interested in Data Science, Machine Learning, AI, ...
-- 🌱 I’m currently learning AWS-RDB and Postgres + Data analytics
 - 📫 How to reach me thomas.haid@gmx.net
 
 <!---
